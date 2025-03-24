@@ -1,0 +1,16 @@
+# Arquivos Java
+*.class
+*.jar
+
+# Pastas de build
+bin/
+target/
+
+# Configurações de IDE
+.idea/
+*.iml
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
